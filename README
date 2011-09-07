@@ -1,0 +1,4 @@
+Hello World Kernel Module
+=========================
+
+Simple modules demonstrating init,exit,signals,threads
